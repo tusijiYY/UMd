@@ -1,0 +1,16 @@
+{
+  "name": "ele-md",
+  "version": "1.0.0",
+  "description": "a markdown editor with electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/zlyang/ele-md",
+  "keywords": [
+    "Electron",
+    "editor.md",
+    "markdown"
+  ],
+  "license": "LGPL-3.0"
+}
